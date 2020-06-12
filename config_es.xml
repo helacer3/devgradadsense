@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>gradiadsense</name>
+    <displayName><![CDATA[Gradi Adsense]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Banner Adsense, Centro Comercial Santaf&eacute;]]></description>
+    <author><![CDATA[Snayder Acero]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Está seguro que desea desinstalar el módulo?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

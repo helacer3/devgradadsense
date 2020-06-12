@@ -1,0 +1,1 @@
+# Gradi Adsense Module Prestashop 1.7
